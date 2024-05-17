@@ -1,0 +1,14 @@
+{
+  "name": "MetaverseSecurityDApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "ethers": "^6.12.1",
+    "react-native": "0.74.1",
+    "react-native-elements": "^3.4.3",
+    "react-native-fingerprint-scanner": "^6.0.0"
+  }
+}
